@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/CMakeLists.txt",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/x86_64/lib/cmake/glslang/glslang-config-version.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/x86_64/lib/cmake/glslang/glslang-config.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/x86_64/lib/cmake/glslang/glslang-targets-release.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/x86_64/lib/cmake/glslang/glslang-targets.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/x86_64/lib/cmake/ncnn/ncnn-release.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/x86_64/lib/cmake/ncnn/ncnn.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/x86_64/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/x86_64/lib/cmake/ncnn/ncnnConfigVersion.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/abi-x86_64/OpenCVConfig.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/abi-x86_64/OpenCVModules-release.cmake",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/abi-x86_64/OpenCVModules.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mac/Library/Android/sdk/cmake/3.31.5/bin/ninja",
+      "-C",
+      "/Users/mac/ocr/ncnn-android-ppocrv5/app/.cxx/Debug/373z3511/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mac/Library/Android/sdk/cmake/3.31.5/bin/ninja",
+    "-C",
+    "/Users/mac/ocr/ncnn-android-ppocrv5/app/.cxx/Debug/373z3511/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ppocrv5ncnn::@6890427a1f51a3e7e1df": {
+      "artifactName": "ppocrv5ncnn",
+      "abi": "x86_64",
+      "output": "/Users/mac/ocr/ncnn-android-ppocrv5/app/build/intermediates/cxx/Debug/373z3511/obj/x86_64/libppocrv5ncnn.so",
+      "runtimeFiles": []
+    }
+  }
+}

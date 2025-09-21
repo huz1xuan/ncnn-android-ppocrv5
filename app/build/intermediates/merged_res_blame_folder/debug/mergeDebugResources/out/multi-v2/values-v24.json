@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tencent.ppocrv5ncnn.app-mergeDebugResources-6:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/8.12/transforms/99380ed139760fd2440cbc1d3bbf72da/transformed/support-media-compat-28.0.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/8.12/transforms/560ed43e8e756829b8497ae19318a898/transformed/appcompat-v7-28.0.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

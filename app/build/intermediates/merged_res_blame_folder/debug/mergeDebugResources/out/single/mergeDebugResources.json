@@ -1,6 +1,34 @@
 [
     {
-        "merged": "com.tencent.ppocrv5ncnn.app-debug-4:/layout_main.xml.flat",
-        "source": "com.tencent.ppocrv5ncnn.app-main-6:/layout/main.xml"
+        "merged": "com.tencent.ppocrv5ncnn.app-debug-8:/drawable_button_model_selector.xml.flat",
+        "source": "com.tencent.ppocrv5ncnn.app-main-10:/drawable/button_model_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-debug-8:/layout_activity_home.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-main-10:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-debug-8:/drawable_button_secondary.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-main-10:/drawable/button_secondary.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-debug-8:/layout_activity_result.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-main-10:/layout/activity_result.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-debug-8:/layout_main.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-main-10:/layout/main.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-debug-8:/xml_file_paths.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-main-10:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.tencent.ppocrv5ncnn.app-debug-8:/layout_activity_home.xml.flat",
+        "source": "com.tencent.ppocrv5ncnn.app-main-10:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-debug-8:/drawable_button_primary.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.12/com.tencent.ppocrv5ncnn.app-main-10:/drawable/button_primary.xml"
     }
 ]

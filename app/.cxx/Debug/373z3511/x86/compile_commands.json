@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/mac/ocr/ncnn-android-ppocrv5/app/.cxx/Debug/373z3511/x86",
+  "command": "/Users/mac/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android24 --sysroot=/Users/mac/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dppocrv5ncnn_EXPORTS -isystem /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/x86/include/ncnn -isystem /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D__BIONIC_NO_PAGE_SIZE_MACRO -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles/ppocrv5ncnn.dir/ppocrv5ncnn.cpp.o -c /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ppocrv5ncnn.cpp",
+  "file": "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ppocrv5ncnn.cpp",
+  "output": "CMakeFiles/ppocrv5ncnn.dir/ppocrv5ncnn.cpp.o"
+},
+{
+  "directory": "/Users/mac/ocr/ncnn-android-ppocrv5/app/.cxx/Debug/373z3511/x86",
+  "command": "/Users/mac/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android24 --sysroot=/Users/mac/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dppocrv5ncnn_EXPORTS -isystem /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/x86/include/ncnn -isystem /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D__BIONIC_NO_PAGE_SIZE_MACRO -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles/ppocrv5ncnn.dir/ppocrv5.cpp.o -c /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ppocrv5.cpp",
+  "file": "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ppocrv5.cpp",
+  "output": "CMakeFiles/ppocrv5ncnn.dir/ppocrv5.cpp.o"
+},
+{
+  "directory": "/Users/mac/ocr/ncnn-android-ppocrv5/app/.cxx/Debug/373z3511/x86",
+  "command": "/Users/mac/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android24 --sysroot=/Users/mac/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dppocrv5ncnn_EXPORTS -isystem /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/x86/include/ncnn -isystem /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D__BIONIC_NO_PAGE_SIZE_MACRO -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles/ppocrv5ncnn.dir/ndkcamera.cpp.o -c /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ndkcamera.cpp",
+  "file": "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ndkcamera.cpp",
+  "output": "CMakeFiles/ppocrv5ncnn.dir/ndkcamera.cpp.o"
+}
+]

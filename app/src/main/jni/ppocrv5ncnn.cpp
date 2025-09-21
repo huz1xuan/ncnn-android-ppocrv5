@@ -27,11 +27,13 @@
 #include <benchmark.h>
 
 #include "ppocrv5.h"
+#include "ppocrv5_dict.h"
 
 #include "ndkcamera.h"
 
 #include <opencv2/core/core.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
+#include <opencv2/highgui.hpp>
 
 #if __ARM_NEON
 #include <arm_neon.h>
@@ -281,6 +283,80 @@ JNIEXPORT jboolean JNICALL Java_com_tencent_ppocrv5ncnn_PPOCRv5Ncnn_setOutputWin
     g_camera->set_window(win);
 
     return JNI_TRUE;
+}
+
+// public native String recognizeImage(byte[] imageData, int width, int height);
+JNIEXPORT jstring JNICALL Java_com_tencent_ppocrv5ncnn_PPOCRv5Ncnn_recognizeImage(JNIEnv* env, jobject thiz, jbyteArray imageData, jint width, jint height)
+{
+    if (!g_ppocrv5)
+    {
+        return env->NewStringUTF("模型未加载");
+    }
+
+    __android_log_print(ANDROID_LOG_DEBUG, "ncnn", "recognizeImage %dx%d", width, height);
+
+    // 获取图片数据
+    jbyte* data = env->GetByteArrayElements(imageData, NULL);
+    if (!data)
+    {
+        return env->NewStringUTF("无法获取图片数据");
+    }
+
+    // 创建OpenCV Mat
+    cv::Mat image(height, width, CV_8UC3, (unsigned char*)data);
+    if (image.empty())
+    {
+        env->ReleaseByteArrayElements(imageData, data, JNI_ABORT);
+        return env->NewStringUTF("无法创建图片矩阵");
+    }
+
+    // 执行OCR识别
+    std::vector<Object> objects;
+    {
+        ncnn::MutexLockGuard g(lock);
+        g_ppocrv5->detect(image, objects);
+    }
+
+    // 对每个检测到的文本区域进行识别
+    std::string result_text = "";
+    for (size_t i = 0; i < objects.size(); i++)
+    {
+        Object& obj = objects[i];
+        
+        // 执行文字识别
+        {
+            ncnn::MutexLockGuard g(lock);
+            g_ppocrv5->recognize(image, obj);
+        }
+        
+        // 构建文字字符串
+        std::string text_line = "";
+        for (size_t j = 0; j < obj.text.size(); j++)
+        {
+            const Character& ch = obj.text[j];
+            if (ch.id >= 0 && ch.id < character_dict_size)
+            {
+                text_line += character_dict[ch.id];
+            }
+        }
+        
+        if (!result_text.empty())
+        {
+            result_text += "\n";
+        }
+        result_text += text_line;
+        
+        __android_log_print(ANDROID_LOG_DEBUG, "ncnn", "detected text line (prob=%.4f)", obj.prob);
+    }
+
+    env->ReleaseByteArrayElements(imageData, data, JNI_ABORT);
+
+    if (result_text.empty())
+    {
+        return env->NewStringUTF("未识别到文字");
+    }
+
+    return env->NewStringUTF(result_text.c_str());
 }
 
 }

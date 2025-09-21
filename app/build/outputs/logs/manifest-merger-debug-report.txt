@@ -1,10 +1,37 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:2:1-17:12
-MERGED from [com.android.support:support-v4:24.0.0] /Users/mac/.gradle/caches/8.12/transforms/b1edef854f91fb655e2b20bbf9b9b709/transformed/support-v4-24.0.0/AndroidManifest.xml:17:1-27:12
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/f0a84c691959581fb00239ccd228dbd9/transformed/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/560ed43e8e756829b8497ae19318a898/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/99380ed139760fd2440cbc1d3bbf72da/transformed/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/89323883efb8452974a1d832c2d152de/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/b32505dae934de4ad3dae3924c8daccf/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/60351d6ba9500717417f1307052fe893/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/42d3c6be069885363b7e953d381baf7a/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/df5e8fa0c35b73e910f4302f29257f15/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/4ad652077163e0a728ed21aa0b5ff2db/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/a2ee7e4288d41490a1e914fc53cb1b7c/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/13a079689af1ae7ce8782d34a11b15a1/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/5811e6f6c12bc60822f8d7d42ffd19ac/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/0b9601cbdda89fc52d444fd77c8e4c0e/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/c6eb014ab260ce6b2245c58a111c6418/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/8fbf27050a7780e59b21ad3470c2843f/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/7361a62eec93399e261e7c0ac81703e6/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/cefaf17d4721571e32a10a6b4ad6c931/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/59c1383fa282307ca6edf9ff3ab16e19/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/50d23ecbc358e2a5fe735d6cd0e944b6/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/abf72c41db20073058144c705822f8d0/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/87b76e23d662c6f9f984b3d4082a6986/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/e6132a08d3c7bc11bb0327b011120754/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/b06a74790dace25e2446781daf9cfcd6/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/7f38d3701b20e08f82a82b6b90949105/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/0c9b7b7d5d5896a6db7b6ccc95a9575f/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/fc3da48908d42468307921381040e148/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/38a20aa0af03c925d67e6a3c2a8b0169/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/105bb3214e59d7188be2b564712c8427/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
 	package
 		INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -19,49 +46,149 @@ uses-permission#android.permission.CAMERA
 ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:5:5-65
 	android:name
 		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:7:22-78
 uses-feature#android.hardware.camera2.full
-ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:6:5-66
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:8:5-66
 	android:name
-		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:6:19-63
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:8:19-63
 uses-feature#android.hardware.camera
-ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:7:5-85
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:9:5-85
 	android:required
-		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:7:58-82
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:9:58-82
 	android:name
-		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:7:19-57
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:9:19-57
 application
-ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:9:5-16:19
-INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:9:5-16:19
-MERGED from [com.android.support:support-v4:24.0.0] /Users/mac/.gradle/caches/8.12/transforms/b1edef854f91fb655e2b20bbf9b9b709/transformed/support-v4-24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /Users/mac/.gradle/caches/8.12/transforms/b1edef854f91fb655e2b20bbf9b9b709/transformed/support-v4-24.0.0/AndroidManifest.xml:25:5-20
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:11:5-38:19
+INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:11:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/cefaf17d4721571e32a10a6b4ad6c931/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/cefaf17d4721571e32a10a6b4ad6c931/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/59c1383fa282307ca6edf9ff3ab16e19/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/59c1383fa282307ca6edf9ff3ab16e19/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
 	android:extractNativeLibs
 		INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/cefaf17d4721571e32a10a6b4ad6c931/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:9:18-50
-activity#com.tencent.ppocrv5ncnn.MainActivity
-ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:10:9-15:20
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:11:18-50
+	android:theme
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:11:51-82
+activity#com.tencent.ppocrv5ncnn.HomeActivity
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:12:9-19:20
 	android:label
-		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:10:47-79
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:13:19-51
+	android:exported
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:14:19-42
 	android:name
-		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:10:19-46
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:12:19-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:11:13-14:29
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:12:17-69
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:12:25-66
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:13:17-77
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:13:27-74
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.tencent.ppocrv5ncnn.MainActivity
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:21:9-23:46
+	android:label
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:22:19-39
+	android:exported
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:23:19-43
+	android:name
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:21:19-46
+activity#com.tencent.ppocrv5ncnn.ResultActivity
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:25:9-27:46
+	android:label
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:26:19-39
+	android:exported
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:27:19-43
+	android:name
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:25:19-48
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:grantUriPermissions
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:33:13-47
+	android:authorities
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:31:13-71
+	android:exported
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:30:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:34:13-36:54
+	android:resource
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:36:17-51
+	android:name
+		ADDED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml:35:17-67
 uses-sdk
 INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:support-v4:24.0.0] /Users/mac/.gradle/caches/8.12/transforms/b1edef854f91fb655e2b20bbf9b9b709/transformed/support-v4-24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:24.0.0] /Users/mac/.gradle/caches/8.12/transforms/b1edef854f91fb655e2b20bbf9b9b709/transformed/support-v4-24.0.0/AndroidManifest.xml:21:5-23:54
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:24.0.0] /Users/mac/.gradle/caches/8.12/transforms/b1edef854f91fb655e2b20bbf9b9b709/transformed/support-v4-24.0.0/AndroidManifest.xml:23:9-51
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/f0a84c691959581fb00239ccd228dbd9/transformed/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/f0a84c691959581fb00239ccd228dbd9/transformed/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/560ed43e8e756829b8497ae19318a898/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/560ed43e8e756829b8497ae19318a898/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/99380ed139760fd2440cbc1d3bbf72da/transformed/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/99380ed139760fd2440cbc1d3bbf72da/transformed/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/89323883efb8452974a1d832c2d152de/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/89323883efb8452974a1d832c2d152de/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/b32505dae934de4ad3dae3924c8daccf/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/b32505dae934de4ad3dae3924c8daccf/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/60351d6ba9500717417f1307052fe893/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/60351d6ba9500717417f1307052fe893/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/42d3c6be069885363b7e953d381baf7a/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/42d3c6be069885363b7e953d381baf7a/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/df5e8fa0c35b73e910f4302f29257f15/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/df5e8fa0c35b73e910f4302f29257f15/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/4ad652077163e0a728ed21aa0b5ff2db/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/4ad652077163e0a728ed21aa0b5ff2db/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/a2ee7e4288d41490a1e914fc53cb1b7c/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/a2ee7e4288d41490a1e914fc53cb1b7c/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/13a079689af1ae7ce8782d34a11b15a1/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/13a079689af1ae7ce8782d34a11b15a1/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/5811e6f6c12bc60822f8d7d42ffd19ac/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/5811e6f6c12bc60822f8d7d42ffd19ac/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/0b9601cbdda89fc52d444fd77c8e4c0e/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/0b9601cbdda89fc52d444fd77c8e4c0e/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/c6eb014ab260ce6b2245c58a111c6418/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/c6eb014ab260ce6b2245c58a111c6418/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/8fbf27050a7780e59b21ad3470c2843f/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/8fbf27050a7780e59b21ad3470c2843f/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/7361a62eec93399e261e7c0ac81703e6/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/7361a62eec93399e261e7c0ac81703e6/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/cefaf17d4721571e32a10a6b4ad6c931/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/cefaf17d4721571e32a10a6b4ad6c931/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/59c1383fa282307ca6edf9ff3ab16e19/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/59c1383fa282307ca6edf9ff3ab16e19/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/50d23ecbc358e2a5fe735d6cd0e944b6/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/50d23ecbc358e2a5fe735d6cd0e944b6/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/abf72c41db20073058144c705822f8d0/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/abf72c41db20073058144c705822f8d0/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/87b76e23d662c6f9f984b3d4082a6986/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/87b76e23d662c6f9f984b3d4082a6986/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/e6132a08d3c7bc11bb0327b011120754/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/e6132a08d3c7bc11bb0327b011120754/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/b06a74790dace25e2446781daf9cfcd6/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/b06a74790dace25e2446781daf9cfcd6/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/7f38d3701b20e08f82a82b6b90949105/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mac/.gradle/caches/8.12/transforms/7f38d3701b20e08f82a82b6b90949105/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/0c9b7b7d5d5896a6db7b6ccc95a9575f/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/0c9b7b7d5d5896a6db7b6ccc95a9575f/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/fc3da48908d42468307921381040e148/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/fc3da48908d42468307921381040e148/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/38a20aa0af03c925d67e6a3c2a8b0169/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/38a20aa0af03c925d67e6a3c2a8b0169/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/105bb3214e59d7188be2b564712c8427/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mac/.gradle/caches/8.12/transforms/105bb3214e59d7188be2b564712c8427/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
 		INJECTED from /Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/AndroidManifest.xml
 	android:minSdkVersion

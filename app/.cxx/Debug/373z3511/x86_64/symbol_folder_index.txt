@@ -1,0 +1,1 @@
+/Users/mac/ocr/ncnn-android-ppocrv5/app/build/intermediates/cxx/Debug/373z3511/obj/x86_64

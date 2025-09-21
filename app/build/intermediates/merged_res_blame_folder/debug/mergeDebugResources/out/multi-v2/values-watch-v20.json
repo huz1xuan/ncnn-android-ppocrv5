@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tencent.ppocrv5ncnn.app-mergeDebugResources-6:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/8.12/transforms/560ed43e8e756829b8497ae19318a898/transformed/appcompat-v7-28.0.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

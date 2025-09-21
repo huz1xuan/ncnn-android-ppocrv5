@@ -23,6 +23,7 @@ public class PPOCRv5Ncnn
     public native boolean openCamera(int facing);
     public native boolean closeCamera();
     public native boolean setOutputWindow(Surface surface);
+    public native String recognizeImage(byte[] imageData, int width, int height);
 
     static {
         System.loadLibrary("ppocrv5ncnn");

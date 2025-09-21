@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/mac/ocr/ncnn-android-ppocrv5/app/.cxx/Debug/373z3511/x86'
+ninja: no work to do.

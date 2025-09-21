@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tencent.ppocrv5ncnn.app-mergeDebugResources-6:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/8.12/transforms/560ed43e8e756829b8497ae19318a898/transformed/appcompat-v7-28.0.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
