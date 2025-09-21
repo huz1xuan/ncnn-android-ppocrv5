@@ -1,0 +1,4 @@
+/Users/mac/Library/Android/sdk/cmake/3.31.5/bin/ninja \
+  -C \
+  /Users/mac/ocr/ncnn-android-ppocrv5/app/.cxx/Debug/373z3511/arm64-v8a \
+  ppocrv5ncnn

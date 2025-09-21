@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tencent.ppocrv5ncnn.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "14,3,7,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "400,104,218,55",
+                        "endLines": "18,6,13,2",
+                        "endColumns": "19,19,19,48",
+                        "endOffsets": "532,213,395,99"
+                    },
+                    "to": {
+                        "startLines": "2,7,11,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,192,306,488",
+                        "endLines": "6,10,17,18",
+                        "endColumns": "19,19,19,48",
+                        "endOffsets": "187,301,483,532"
+                    }
+                }
+            ]
+        }
+    ]
+}

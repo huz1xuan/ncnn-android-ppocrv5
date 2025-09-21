@@ -1,0 +1,14 @@
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/CMakeLists.txt
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-config-version.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-config.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-targets-release.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/arm64-v8a/lib/cmake/glslang/glslang-targets.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn-release.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnn.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnnConfig.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/ncnn-20250916-android-vulkan/arm64-v8a/lib/cmake/ncnn/ncnnConfigVersion.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/OpenCVConfig-version.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/OpenCVConfig.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/abi-arm64-v8a/OpenCVConfig.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/abi-arm64-v8a/OpenCVModules-release.cmake
+/Users/mac/ocr/ncnn-android-ppocrv5/app/src/main/jni/opencv-mobile-4.12.0-android/sdk/native/jni/abi-arm64-v8a/OpenCVModules.cmake

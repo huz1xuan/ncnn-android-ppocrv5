@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+array cpugpu_array
+array model_array
+array size_array
+id buttonSwitchCamera
+id cameraview
+id spinnerCPUGPU
+id spinnerModel
+id spinnerSize
+layout main
+string app_name

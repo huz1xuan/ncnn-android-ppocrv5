@@ -1,0 +1,5 @@
+# ninja log v5
+0	597	1758440222551179363	CMakeFiles/ppocrv5ncnn.dir/ndkcamera.cpp.o	74ae8984f606cdcc
+0	660	1758440222613708572	CMakeFiles/ppocrv5ncnn.dir/ppocrv5ncnn.cpp.o	4a855ee188563b62
+0	10651	1758440232584152081	CMakeFiles/ppocrv5ncnn.dir/ppocrv5.cpp.o	8db2495b482727ff
+10651	10854	1758440232791658489	/Users/mac/ocr/ncnn-android-ppocrv5/app/build/intermediates/cxx/Debug/373z3511/obj/arm64-v8a/libppocrv5ncnn.so	dd7df40c516b4dfa
