@@ -1,16 +1,10 @@
 # ninja log v5
-0	597	1758440222551179363	CMakeFiles/ppocrv5ncnn.dir/ndkcamera.cpp.o	74ae8984f606cdcc
-0	660	1758440222613708572	CMakeFiles/ppocrv5ncnn.dir/ppocrv5ncnn.cpp.o	4a855ee188563b62
-0	10651	1758440232584152081	CMakeFiles/ppocrv5ncnn.dir/ppocrv5.cpp.o	8db2495b482727ff
-10651	10854	1758440232791658489	/Users/mac/ocr/ncnn-android-ppocrv5/app/build/intermediates/cxx/Debug/373z3511/obj/arm64-v8a/libppocrv5ncnn.so	dd7df40c516b4dfa
-0	7	0	clean	809e4a046d3c63af
-5	1236	1758441502667575536	CMakeFiles/ppocrv5ncnn.dir/ndkcamera.cpp.o	74ae8984f606cdcc
-5	12111	1758441513519541509	CMakeFiles/ppocrv5ncnn.dir/ppocrv5.cpp.o	8db2495b482727ff
-3	683	1758441602953153241	CMakeFiles/ppocrv5ncnn.dir/ppocrv5ncnn.cpp.o	4a855ee188563b62
-2	1013	1758441650942776073	CMakeFiles/ppocrv5ncnn.dir/ppocrv5ncnn.cpp.o	4a855ee188563b62
-1014	1242	1758441651140599166	/Users/mac/ocr/ncnn-android-ppocrv5/app/build/intermediates/cxx/Debug/373z3511/obj/arm64-v8a/libppocrv5ncnn.so	dd7df40c516b4dfa
-0	7	0	clean	809e4a046d3c63af
-7	1137	1758441939779141986	CMakeFiles/ppocrv5ncnn.dir/ndkcamera.cpp.o	74ae8984f606cdcc
-5	1270	1758441939915568765	CMakeFiles/ppocrv5ncnn.dir/ppocrv5ncnn.cpp.o	4a855ee188563b62
-6	12408	1758441951038467986	CMakeFiles/ppocrv5ncnn.dir/ppocrv5.cpp.o	8db2495b482727ff
 12408	12618	1758441951247059316	/Users/mac/ocr/ncnn-android-ppocrv5/app/build/intermediates/cxx/Debug/373z3511/obj/arm64-v8a/libppocrv5ncnn.so	dd7df40c516b4dfa
+6	12408	1758441951038467986	CMakeFiles/ppocrv5ncnn.dir/ppocrv5.cpp.o	8db2495b482727ff
+0	7	0	clean	809e4a046d3c63af
+5	1270	1758441939915568765	CMakeFiles/ppocrv5ncnn.dir/ppocrv5ncnn.cpp.o	4a855ee188563b62
+7	1137	1758441939779141986	CMakeFiles/ppocrv5ncnn.dir/ndkcamera.cpp.o	74ae8984f606cdcc
+0	788	1759210915908928576	CMakeFiles/ppocrv5ncnn.dir/ndkcamera.cpp.o	74ae8984f606cdcc
+0	808	1759210915928671643	CMakeFiles/ppocrv5ncnn.dir/ppocrv5ncnn.cpp.o	4a855ee188563b62
+0	9909	1759210925011680027	CMakeFiles/ppocrv5ncnn.dir/ppocrv5.cpp.o	8db2495b482727ff
+9909	10081	1759210925183227469	/Users/mac/ocr/ncnn-android-ppocrv5/app/build/intermediates/cxx/Debug/373z3511/obj/arm64-v8a/libppocrv5ncnn.so	dd7df40c516b4dfa

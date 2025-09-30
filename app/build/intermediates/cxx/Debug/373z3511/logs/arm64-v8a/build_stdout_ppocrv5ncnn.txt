@@ -1,2 +1,5 @@
 ninja: Entering directory `/Users/mac/ocr/ncnn-android-ppocrv5/app/.cxx/Debug/373z3511/arm64-v8a'
-ninja: no work to do.
+[1/4] Building CXX object CMakeFiles/ppocrv5ncnn.dir/ndkcamera.cpp.o
+[2/4] Building CXX object CMakeFiles/ppocrv5ncnn.dir/ppocrv5ncnn.cpp.o
+[3/4] Building CXX object CMakeFiles/ppocrv5ncnn.dir/ppocrv5.cpp.o
+[4/4] Linking CXX shared library /Users/mac/ocr/ncnn-android-ppocrv5/app/build/intermediates/cxx/Debug/373z3511/obj/arm64-v8a/libppocrv5ncnn.so
